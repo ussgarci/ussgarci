@@ -1,2 +1,4 @@
-I have come here to chew bubblegum and learn Haskell.  😎
 
+<h3> Hello! :wave: </h3>
+
+- 🌱 &nbsp; Learning Haskell and F#.
