@@ -1,4 +1,4 @@
 
-<h3> Hello! :wave: </h3>
+<h3> Hello! :wave: 🚢  :coffee:</h3>
 
 - 🌱 &nbsp; Learning Haskell and F#.
